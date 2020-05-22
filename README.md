@@ -1,6 +1,6 @@
 # Quick Quiz API :bulb:
 
-![Node.js CI](https://github.com/prkhrv/Swagger-API-Documentation/workflows/Node.js%20CI/badge.svg)
+
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://quick-quiz-api.herokuapp.com)
 [![GitHub release](https://img.shields.io/github/release/prkhrv/Quick-Quiz-API.svg)](https://GitHub.com/prkhrv/Quick-Quiz-API/releases/)
 
